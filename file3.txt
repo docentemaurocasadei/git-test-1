@@ -1,2 +1,3 @@
 questo è il contenuto
 seconda riga da nano (editor)
+modifica da master riga 3
